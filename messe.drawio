@@ -10,7 +10,7 @@
         <mxCell id="SOf_S1IFiyDEacTyMSyx-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="misst" vertex="1">
           <mxGeometry height="30" width="120" x="280" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="SOf_S1IFiyDEacTyMSyx-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="SOf_S1IFiyDEacTyMSyx-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="sendet an" vertex="1">
           <mxGeometry height="30" width="110" x="470" y="245" as="geometry" />
         </mxCell>
         <mxCell id="SOf_S1IFiyDEacTyMSyx-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Messstation" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="SOf_S1IFiyDEacTyMSyx-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Region" vertex="1">
           <mxGeometry height="60" width="120" x="290" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="SOf_S1IFiyDEacTyMSyx-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="SOf_S1IFiyDEacTyMSyx-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="gehört zu" vertex="1">
           <mxGeometry height="30" width="120" x="290" y="340" as="geometry" />
         </mxCell>
         <mxCell id="SOf_S1IFiyDEacTyMSyx-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="SOf_S1IFiyDEacTyMSyx-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mitarbeiter" vertex="1">
           <mxGeometry height="60" width="120" x="650" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="SOf_S1IFiyDEacTyMSyx-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="SOf_S1IFiyDEacTyMSyx-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="betreut" vertex="1">
           <mxGeometry height="30" width="110" x="470" y="445" as="geometry" />
         </mxCell>
         <mxCell id="SOf_S1IFiyDEacTyMSyx-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
@@ -52,7 +52,7 @@
         <mxCell id="SOf_S1IFiyDEacTyMSyx-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="n" vertex="1">
           <mxGeometry height="30" width="60" x="580" y="445" as="geometry" />
         </mxCell>
-        <mxCell id="SOf_S1IFiyDEacTyMSyx-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="SOf_S1IFiyDEacTyMSyx-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="nutzt" vertex="1">
           <mxGeometry height="30" width="110" x="150" y="245" as="geometry" />
         </mxCell>
         <mxCell id="SOf_S1IFiyDEacTyMSyx-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Messgerät" vertex="1">
